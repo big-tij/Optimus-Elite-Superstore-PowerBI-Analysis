@@ -1,5 +1,4 @@
-Optimus-Elite Superstore: Revenue and Profitability Analysis
-Project Overview
+
 This project presents a comprehensive data analysis of the Optimus-Elite Superstore's performance from 2011 to 2014. The primary objective was to uncover key insights into the company's revenue and profitability trends, identify top-performing areas, and highlight opportunities for improvement. The analysis was conducted using Power BI to transform raw data into a dynamic, interactive dashboard.
 
 Data Source
